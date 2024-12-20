@@ -59,3 +59,4 @@ if __name__ == "__main__":
     et.visualize_expenses()
     print("\nVisualizing Monthly Trends:")
     et.visualize_monthly_trends()
+#i have used some chatgpt for some part of it but I have understood what it said 
